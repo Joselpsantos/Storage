@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnSave2" type="id" />
+    <item name="btnSave1" type="id" />
+    <item name="btnLoad1" type="id" />
+    <item name="txt1" type="id" />
+    <item name="divider1" type="id" />
+    <item name="txt2" type="id" />
+    <item name="btnLoad4" type="id" />
+    <item name="btnSave4" type="id" />
+    <item name="btnLoad3" type="id" />
+    <item name="btnSave3" type="id" />
+    <item name="divider2" type="id" />
+    <item name="btnLoad2" type="id" />
+    <item name="btnSave5" type="id" />
+    <item name="txt3" type="id" />
+    <item name="btnLoad5" type="id" />
+</resources>
