@@ -3,6 +3,7 @@ package pt.ipt.dama.storage
 import android.content.SharedPreferences
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.os.Environment
 import android.widget.Button
 import android.widget.Toast
 import java.io.File
